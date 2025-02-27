@@ -197,7 +197,10 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-
+body {
+  font-family: "Nunito", "Helvetica", "Arial", sans-serif; /*Nunito is main font*/ 
+  font-size: 1em;
+}
 label {
   display: block;
 }
