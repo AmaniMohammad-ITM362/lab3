@@ -206,6 +206,9 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+#input-age-verification label {
+  display: inline;
+}
 
 form{
   background-color: rgb(196, 196, 196);
