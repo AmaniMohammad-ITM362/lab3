@@ -206,6 +206,9 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+h1{
+  font-size: 2em;
+}
 #input-age-verification label {
   display: inline;
 }
