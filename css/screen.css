@@ -207,6 +207,10 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+form{
+  background-color: rgb(196, 196, 196);
+  box-shadow: 0px 8px 25px rgba(187, 187, 187, 0.397);
+  padding: 30px;
 
 /* ===== STATE STYLES ======= */
 @media (max-width: 700px) {
