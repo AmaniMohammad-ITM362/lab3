@@ -211,6 +211,7 @@ label {
 h1{
   font-size: 2em;
   padding: 30px;
+  text-align: left;
 }
 #input-age-verification label {
   display: inline;
