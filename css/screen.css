@@ -261,4 +261,8 @@ input[type="email"]{
   p{
     text-align: center;
   }
+  #input-age-verification input[type="checkbox"] {
+    align-items: center;
+    text-align: center;
+  }
 }
