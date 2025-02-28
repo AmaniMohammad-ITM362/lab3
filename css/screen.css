@@ -229,6 +229,10 @@ form{
 label{
   color: #252525;
 }
+input[type="submit"]{
+  width: 95%;
+  border-radius: 15px;
+}
 
 /* ===== STATE STYLES ======= */
 @media (max-width: 800px) {
