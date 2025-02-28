@@ -229,4 +229,7 @@ label{
 /* ===== STATE STYLES ======= */
 @media (max-width: 800px) {
 
+  form{
+    padding: 10px;
+  }
 }
