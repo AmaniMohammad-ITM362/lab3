@@ -217,7 +217,9 @@ h1{
 #input-age-verification label {
   display: inline;
 }
-
+p{
+  padding:10px;
+}
 form{
   background-color: rgb(196, 196, 196);
   border-radius: 15px;
